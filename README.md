@@ -35,6 +35,6 @@ Once your class is setup, you may retrieve your instance from anywhere in your s
 Game.instance.SomeMethod()
 ```
 
-## Credits
+## Credits
 
 This class is a slightly modified version of the default singleton available on Unity's community wiki.
