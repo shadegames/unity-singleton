@@ -32,7 +32,7 @@ Once your class is setup, you may retrieve your instance from anywhere in your s
 
 ```csharp
 
-Game.instance.SomeMethod()
+Game.instance.SomeMethod();
 ```
 
 ## Credits
