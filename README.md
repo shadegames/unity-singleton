@@ -2,7 +2,7 @@
 
 Unity singleton base class.
 
-## Setup
+## Setup
 
 In order to use the Singleton class (which extends the MonoBehavior class), just import the Shade namespaace and extend your class that way:
 
