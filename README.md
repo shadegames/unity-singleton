@@ -24,7 +24,7 @@ public class Game : Singleton<Game>
 }
 ```
 
-Here, we are using it in the context of a game manager.
+As you can see, we are using the singleton pattern in the context of a game manager here.
 
 ## Usage
 
@@ -37,4 +37,4 @@ Game.instance.SomeMethod()
 
 ## Credits
 
-This class is a slightly modified version of the default singleton available on Unity's community wiki.
+This class is a slightly modified version of the default singleton class available on Unity's community wiki.
