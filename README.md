@@ -1,4 +1,4 @@
-# Singleton
+# Unity Singleton
 
 Unity singleton base class.
 
